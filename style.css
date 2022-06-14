@@ -1,0 +1,38 @@
+body {
+    background-image: url(img/fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: rgb(226, 250, 8);
+    border-bottom: 1px solid;
+    padding: 0px;
+    margin: 0px;
+
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+    border-bottom: 10px solid;
+}
+nav ul{
+    display: flex;
+}
+ul li a{
+    color: black;
+    font-size: 60px;
+    text-decoration: none;
+
+}
+div a {
+    color: black;
+    font-size: 100px;
+    text-decoration: none;
+}
+nav {
+    color: black;
+}
+section {
+    align-items: center;
+}
